@@ -7,7 +7,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitimi kapsamında 
 
 ## Proje Görseli
 
-![Proje Resmi](github.png)
+![Proje Resmi](proje-resmi.png)
 
 ---
 
